@@ -1,0 +1,1350 @@
+{
+ "trophy_list" : {
+  "toothbrush" : {
+   "display_name"         : "toothbrush",
+   "subtitle"             : "For strong and healthy tusks!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#3b75b9", "trophy_image_border_color" : "#3b75b9",
+   "text_color"           : "#3b75b9", "text_outline_color"        : "#1c3969",
+   "credit"               : "Oral-B -- http://www.oralb.com/products/manual-toothbrushes/images/top_banner_new1.jpg. Used under US fair use statute."
+  },
+  "wall_hanging-elephant" : {
+   "display_name"         : "wall hanging - elephant",
+   "subtitle"             : "A wonderful ceramic display specimen.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#7bdda9", "trophy_image_border_color" : "#4e916e",
+   "text_color"           : "#7bdda9", "text_outline_color"        : "#4e916e",
+   "credit"               : "thesweetestmemories.com -- http://thesweetestmemories.com/sunrise/stock_jpgs/39/39150.jpg. Used under US fair use statute."
+  },
+  "elephant_carriage" : {
+   "display_name"         : "elephant carriage",
+   "subtitle"             : "It's an elephant carriage.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#e7bb36", "trophy_image_border_color" : "#95771b",
+   "text_color"           : "#fbf8f9", "text_outline_color"        : "black",
+   "credit"               : "Michael Clarke -- http://commons.wikimedia.org/wiki/File:Silver_Hathi_Howdah,_Mehrangarh_Fort_Museum.jpg.  Creative Commons Attribution-Share Alike 2.0 Generic."
+  },
+  "stuffed_toy_elephant" : {
+   "display_name"         : "stuffed toy elephant",
+   "subtitle"             : "A stuffed toy elephant.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#fdf8fb", "trophy_image_border_color" : "#637685",
+   "text_color"           : "#fdf8fb", "text_outline_color"        : "#637685",
+   "credit"               : "wild-about-stuffed-animals.com/ (made by Ty) -- http://www.wild-about-stuffed-animals.com/image-files/ty-pluffies-winks-stuffed-elephant-toy.jpg. Used under US fair use statute."
+  },
+  "giraffe-strange_look" : {
+   "display_name"         : "strange look",
+   "subtitle"             : "Your shirt is on backwards!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#cff4fb", "trophy_image_border_color" : "#50a6b6",
+   "text_color"           : "#cff4fb", "text_outline_color"        : "#50a6b6",
+   "credit"               : "(c) Flyingsoft Games."
+  },
+  "tribal_mask-giraffe" : {
+   "display_name"         : "tribal mask - giraffe",
+   "subtitle"             : "Caution: experienced mask-wearers only!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#fff8f3", "trophy_image_border_color" : "#8a3429",
+   "text_color"           : "#fff8f3", "text_outline_color"        : "#8a3429",
+   "credit"               : "africanart.com -- http://www.africanart.com/images/products/detail/garaffewtmk.1.jpg. Used under US fair use statute."
+  },
+  "carved_wooden_figurine-giraffe" : {
+   "display_name"         : "carved wooden figurine - giraffe",
+   "subtitle"             : "Useful for decorating a professor's desk.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#e9dcd1", "trophy_image_border_color" : "#4b2c2d",
+   "text_color"           : "#c7b19f", "text_outline_color"        : "#4b2c2d",
+   "credit"               : "africanart.com -- http://www.africanart.com/images/products/detail/24.JPG. Used under US fair use statute."
+  },
+  "stuffed_toy_giraffe" : {
+   "display_name"         : "stuffed toy giraffe",
+   "subtitle"             : "Chews imaginary leaves.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#feffef", "trophy_image_border_color" : "#767b1d",
+   "text_color"           : "#feffef", "text_outline_color"        : "#767b1d",
+   "credit"               : "bbtoystore.com (made by Ty) -- http://www.bbtoystore.com/mm5/beanies/giraffiti.jpg. Used under US fair use statute."
+  },
+  "gorilla_glue" : {
+   "display_name"         : "gorilla glue",
+   "subtitle"             : "Chairs are a particular problem.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#f5e9b6", "trophy_image_border_color" : "#654d4c",
+   "text_color"           : "#f5e9b6", "text_outline_color"        : "#654d4c",
+   "credit"               : "Corning Glass -- http://www.corninggorillaglass.com/gorilla-channel/How-Corning-Tests-Gorilla%C2%AE-Glass. Used under US fair use statute."
+   },
+  "gorilla_tape" : {
+   "display_name"         : "gorilla tape",
+   "subtitle"             : "Useful for tree-based catapults.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#f5e9b6", "trophy_image_border_color" : "#e56845",
+   "text_color"           : "#f5e9b6", "text_outline_color"        : "#e56845",
+   "credit"               : "Gorilla Glue -- http://www.survivalgearreport.com/wp-content/uploads/2013/02/Gorilla-Tape-1.jpg. Used under US fair use statute."
+  },
+  "gorilla_glass" : {
+   "display_name"         : "gorilla glass",
+   "subtitle"             : "Warning: chair throwing may result in self-injury.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#2090c8", "trophy_image_border_color" : "#2090c8",
+   "text_color"           : "#bbdeee", "text_outline_color"        : "#2090C8",
+   "credit"               : "Gorilla Glue -- http://www.gorillatough.com/images/products/Original-Glue.png. Used under US fair use statute."
+  },
+  "stuffed_toy_gorilla" : {
+   "display_name"         : "stuffed toy gorilla",
+   "subtitle"             : "Makes a child gorilla feel safe.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#aee9a5", "trophy_image_border_color" : "#259344",
+   "text_color"           : "#aee9a5", "text_outline_color"        : "#259344",
+   "credit"               : "Amazon.com (made by Ty) -- http://ecx.images-amazon.com/images/I/71-oZUNmC7L._SL1500_.jpg. Used under US fair use statute."
+  },
+  "steak" : {
+   "display_name"         : "steak",
+   "subtitle"             : "Preventative. I want to LIVE!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#634e25", "trophy_image_border_color" : "#634e25",
+   "text_color"           : "#f1f5d1", "text_outline_color"        : "#634e25",
+   "credit"               : "Jon Sullivan -- http://commons.wikimedia.org/wiki/File:Marinated_steak_on_grill.jpg. Public domain."
+   },
+  "lion's_brush" : {
+   "display_name"         : "lion's brush",
+   "subtitle"             : "Lions are very particular about their manes.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#f5e9b6", "trophy_image_border_color" : "#e56845",
+   "text_color"           : "#f5e9b6", "text_outline_color"        : "#e56845",
+   "credit"               : "Amazon.com (made by Andis Pet Flexible Animal Rake Comb) -- http://ecx.images-amazon.com/images/I/71Sixu7ap%2BL._SL1500_.jpg. Used under US fair use statute."
+  },
+  "lion's_mirror" : {
+   "display_name"         : "lion's mirror",
+   "subtitle"             : "When a water hole just won't do.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#e1fad1", "trophy_image_border_color" : "#4cbd13",
+   "text_color"           : "#e1fad1", "text_outline_color"        : "#4cbd13",
+   "credit"               : "Amazon.com (made by Luxor Salon Mirrors) -- http://ecx.images-amazon.com/images/I/617t5vCxj2L._SL1500_.jpg. Used under US fair use statute. werner22brigitte -- http://pixabay.com/en/painting-black-and-white-digital-art-219514/. Public domain."
+  },
+  "stuffed_toy_lion" : {
+   "display_name"         : "stuffed toy lion",
+   "subtitle"             : "Zebra scarecrow!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white", "trophy_image_border_color" : "#c6c6c6",
+   "text_color"           : "white", "text_outline_color"        : "#c6c6c6",
+   "credit"               : "Amazon.com (made by Ty) http://ecx.images-amazon.com/images/I/41rivtLKBrL.jpg. Used under US fair use statute."
+  },
+  "lemur_hammock" : {
+   "display_name"         : "lemur hammock",
+   "subtitle"             : "The bed of kings.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#e5e5e5", "trophy_image_border_color" : "#e5e5e5",
+   "text_color"           : "#ffe164", "text_outline_color"        : "#dcb75e",
+   "credit"               : "Chris McClave --  http://commons.wikimedia.org/wiki/File:Hammock_-_Polynesia.jpg. Creative Commons Attribution 2.0 Generic."
+   },
+  "lemur_crown" : {
+   "display_name"         : "lemur crown",
+   "subtitle"             : "A sign of kingliness; yeah!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#f7ed7d", "trophy_image_border_color" : "#cec022",
+   "text_color"           : "#ee7f56", "text_outline_color"        : "#9f4422",
+   "credit"               : "www.royalcaribbeancruises-sg.com --  http://royalcaribbeancruises-sg.com/content/Surprises-Galore-at-Voyager-of-the-Seas-Sailaway-Party/images/vscollage2.jpg. Used under US fair use statute."
+  },
+  "lemur_throne" : {
+   "display_name"         : "lemur throne",
+   "subtitle"             : "The best kind.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#83bae8", "trophy_image_border_color" : "#286ba3",
+   "text_color"           : "#539bd9", "text_outline_color"        : "#010406",
+   "credit"               : "Kohler --  http://www.us.kohler.com/us/Wellworth-Classic-two-piece-elongated-1.28-gpf-toilet-with-Class-Five-flush-technology-and-left-hand-trip-lever/productDetail/Commercial-Toilets/425935.htm?brandId=974103&categoryId=972256. Used under US fair use statute."
+  },
+  "stuffed_toy_lemur" : {
+   "display_name"         : "stuffed toy lemur",
+   "subtitle"             : "Pretends to be king when no one is around.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#338e47", "trophy_image_border_color": "#dcae41",
+   "text_color"           : "#e0e85d", "text_outline_color"       : "#198931",
+   "credit"               : "bbtoystore.com (made by Ty) http://www.bbtoystore.com/mm5/beanies/king-julien.jpg. Used under US fair use statute."
+  },
+  "tomato" : {
+   "display_name"         : "tomato",
+   "subtitle"             : "Botanically, it's a fruit.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#f7efd7", "trophy_image_border_color" : "#7a1a1a",
+   "text_color"           : "#ff7373", "text_outline_color"        : "#7a1a1a",
+   "credit"               : "chef-mels-kitchen.blogspot.com -- http://3.bp.blogspot.com/-SVKlqQyzz88/UjnMIzVhKsI/AAAAAAAAD8E/ygpYWTGwgJ8/s1600/Tomato.jpg. Used under US fair use statute."
+   },
+  "lettuce" : {
+   "display_name"         : "lettuce",
+   "subtitle"             : "Let us enliven your dinner!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#dbf0a5", "trophy_image_border_color" : "#68af3e",
+   "text_color"           : "#dbf0a5", "text_outline_color"        : "#3b6721",
+   "credit"               : "www.gothamgreens.com -- http://gothamgreens.com/img/produce/Large_new/ButterheadLettuce-03.jpg. Used under US fair use statute."
+  },
+  "anti-wrinkle_cream" : {
+   "display_name"         : "anti-wrinkle cream",
+   "subtitle"             : "Look and feel younger.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#8b1f1f", "trophy_image_border_color" : "#eacece",
+   "text_color"           : "#e85468", "text_outline_color"        : "#5e1818",
+   "credit"               : "Amazon.com (made by Olay) -- http://ecx.images-amazon.com/images/I/71C1piJVzHL._SL1500_.jpg. Used under US fair use statute."
+  },
+  "stuffed_toy_tortoise" : {
+   "display_name"         : "stuffed toy tortoise",
+   "subtitle"             : "Doesn't float.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white", "trophy_image_border_color" : "#c6c6c6",
+   "text_color"           : "white", "text_outline_color"        : "#c6c6c6",
+   "credit"               : "Amazon.com (made by Conservation Critters) http://ecx.images-amazon.com/images/I/51f-MsY99DL.jpg. Used under US fair use statute."
+  },
+  "growth_mutagen" : {
+   "display_name"         : "growth mutagen",
+   "subtitle"             : "Fight crime; only nine ninety-nine.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#2f433e", "trophy_image_border_color" : "#2f433e",
+   "text_color"           : "#89f0b0", "text_outline_color"        : "#2f433e",
+   "credit"               : "turtlepedia.wikia.com (Paramount Pictures) -- http://turtlepedia.wikia.com/wiki/Mutagen?file=17paramountturtle.png. Used under US fair use statute."
+  },
+  "fish" : {
+   "display_name"         : "fish",
+   "subtitle"             : "I feed my turtle only restaurant-prepared fish.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#d1d1d1", "trophy_image_border_color" : "#454249",
+   "text_color"           : "#d1d1d1", "text_outline_color"        : "#454249",
+   "credit"               : "Kagor -- http://commons.wikimedia.org/wiki/File:Aringa-marinato.jpg. Creative Commons Attribution-Share Alike 3.0 Unported. Cutout."
+  },
+  "hypno_goggles" : {
+   "display_name"         : "hypno goggles",
+   "subtitle"             : "Augments the eyes.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#ece9f7", "trophy_image_border_color" : "#c9343a",
+   "text_color"           : "#ece9f7", "text_outline_color"        : "#c9343a",
+   "credit"               : "gogglesandglasses.com -- http://www.gogglesandglasses.com/images/party110/md/md_party110_5603.jpg. Used under US fair use statute."
+  },
+  "stuffed_toy_turtle" : {
+   "display_name"         : "stuffed toy turtle",
+   "subtitle"             : "A sleeping pillow for turtles.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#c3f7c9", "trophy_image_border_color" : "#314d3a",
+   "text_color"           : "#c3f7c9", "text_outline_color"        : "#314d3a",
+   "credit"               : "(c) Flyingsoft Games. The physical product is made by Ty."
+  },
+  "running_shoes" : {
+   "display_name"         : "running shoes",
+   "subtitle"             : "Ironically reduces foot wear. Get it?",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#728cc7", "trophy_image_border_color" : "#223a71",
+   "text_color"           : "#275dbb", "text_outline_color"        : "#223a71",
+   "credit"               : "Amazon.com (made by ASICS) -- http://www.amazon.com/ASICS-Mens-GEL-Nimbus-Running-Shoe/dp/B006H30KAE. Used under US fair use statute."
+  },
+  "tricycle" : {
+   "display_name"         : "tricycle",
+   "subtitle"             : "The power of science, unleashed on the Serengeti.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#377556", "trophy_image_border_color" : "#25523b",
+   "text_color"           : "#377556", "text_outline_color"        : "#25523b",
+   "credit"               : "Costco (made by Radio Flyer) -- http://content.costco.ca/Images/Content/Product/221787c.jpg. Used under US fair use statute."
+  },
+  "rocket_boosters" : {
+   "display_name"         : "rocket boosters",
+   "subtitle"             : "Leave your predator (or prey) in the dust with these.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#182a5a", "trophy_image_border_color" : "#ffc12c",
+   "text_color"           : "#436cda", "text_outline_color"        : "#070e22",
+   "credit"               : "Source unknown (NASA?) -- http://daypic.ru/wp-content/uploads/2011/02/16129.jpg. Used under US fair use statute."
+  },
+  "stuffed_toy_cheetah" : {
+   "display_name"         : "stuffed toy cheetah",
+   "subtitle"             : "Almost huggable. Almost.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white"  , "trophy_image_border_color": "#eee289",
+   "text_color"           : "#eddd61", "text_outline_color"       : "black",
+   "credit"               : "Amazon.com (made by The Toy Animal Company) -- http://ecx.images-amazon.com/images/I/81IGRsERY2L._SL1500_.jpg. Used under US fair use statute."
+  },
+  "mouthwash" : {
+   "display_name"         : "mouthwash",
+   "subtitle"             : "Marketing shows massive demand in the carnivore sub-group.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#00cad4", "trophy_image_border_color" : "#098c92",
+   "text_color"           : "#00b8c1", "text_outline_color"        : "#05656a",
+   "credit"               : "Amazon (made by McNEIL-PPC) -- http://ecx.images-amazon.com/images/I/41GZ3PFSFXL.jpg. Used under US fair use statute."
+  },
+  "cheese" : {
+   "display_name"         : "cheese",
+   "subtitle"             : "Say \"cheese!\"",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#ecd5ad", "trophy_image_border_color" : "#dc9823",
+   "text_color"           : "#ecd5ad", "text_outline_color"        : "#dc9823",
+   "credit"               : "(c) Flyingsoft Games."
+  },
+  "termite_mound" : {
+   "display_name"         : "termite mound",
+   "subtitle"             : "Mini-Costco.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "black"  , "trophy_image_border_color" : "black",
+   "text_color"           : "#b77336", "text_outline_color"        : "black",
+   "credit"               : "Lothar Herzog -- http://commons.wikimedia.org/wiki/File:Termite_mounds_namibia.jpg.  Creative Commons Attribution 2.0 Generic."   
+  },
+  "stuffed_toy_aardvark" : {
+   "display_name"         : "stuffed toy aardvark",
+   "subtitle"             : "Provides a diversion for attacking ants.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#de8d78", "trophy_image_border_color" : "#533d38",
+   "text_color"           : "#de8d78", "text_outline_color"        : "#533d38",
+   "credit"               : "store.tapirback.com (made by Hansa) -- http://cdn2.bigcommerce.com/n-pktq5q/uhsnk/products/2856/images/555/aardvark-stuffed-hansa-f1700__95155.1385681279.1280.1280.jpg?c=2. Used under US fair use statute."
+  },
+  "cosmetics" : {
+   "display_name"         : "cosmetics",
+   "subtitle"             : "Pretty in pink.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#7352a1", "trophy_image_border_color" : "#ecc2ec",
+   "text_color"           : "#7352a1", "text_outline_color"        : "#ecc2ec",
+   "credit"               : "KaurJmeb -- http://commons.wikimedia.org/wiki/File:Cosmetics.JPG. Creative Commons Attribution-Share Alike 3.0 Unported."
+  },
+  "clogs" : {
+   "display_name"         : "clogs",
+   "subtitle"             : "Good for dancing, unless standing on mud.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#ffffd0", "trophy_image_border_color" : "#ba8040",
+   "text_color"           : "#ffffd0", "text_outline_color"        : "#ba8040",
+   "credit"               : "livingstonandporter (Etsy) -- http://img1.etsystatic.com/000/0/5342653/il_570xN.198818609.jpg. Used under US fair use statute."
+  },
+  "cheetah_insurance" : {
+   "display_name"         : "cheetah insurance",
+   "subtitle"             : "Peace of mind at an attractive rate.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#922929", "trophy_image_border_color" : "#fef6d9",
+   "text_color"           : "#922929", "text_outline_color"        : "#fef6d9",
+   "credit"               : "http://special.lib.gla.ac.uk -- http://special.lib.gla.ac.uk/images/exhibitions/ephemera/Eph.H_200.jpg. Public domain."
+  },
+  "stuffed_toy_gazelle" : {
+   "display_name"         : "stuffed toy gazelle",
+   "subtitle"             : "Doesn't jump as high as the real thing.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#2b8037", "trophy_image_border_color" : "#e6ae66",
+   "text_color"           : "#e6ae66", "text_outline_color"        : "#2b8037",
+   "credit"               : "wiking187 / Ebay (made by Kosen) -- http://i.ebayimg.com/00/s/NzYyWDc2MA==/z/zjkAAOxyVaBS25Y2/$_12.JPG. Used under US fair use statute."
+  },
+  "fitness_scales" : {
+   "display_name"         : "fitness scales",
+   "subtitle"             : "Dare to step.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#61cfaa", "trophy_image_border_color" : "#0f7e75",
+   "text_color"           : "#61cfaa", "text_outline_color"        : "#0f7e75",
+   "credit"               : "Amazon.com (made by Salter) -- http://www.amazon.co.uk/Salter-Fitness-Personal-Scale-Clock/dp/B000G7GMAE. Used under US fair use statute."
+  },
+  "swimming_tube" : {
+   "display_name"         : "swimming tube",
+   "subtitle"             : "A must for mud hole attire.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#70caeb", "trophy_image_border_color" : "#3389a8",
+   "text_color"           : "#70caeb", "text_outline_color"        : "#3389a8",
+   "credit"               : "Ukko.de -- http://commons.wikimedia.org/wiki/File:Teddy-in-swim-ring.JPG. Creative Commons Attribution 3.0 Unported."
+  },
+  "stuffed_toy_hippopotamus" : {
+   "display_name"         : "stuffed toy hippopotamus",
+   "subtitle"             : "Not as heavy as the real thing.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#94d1ee", "trophy_image_border_color" : "#2f22ab",
+   "text_color"           : "#5bb2dc", "text_outline_color"        : "#2f22ab",
+   "credit"               : "r.luongo1  / Ebay (made by Ty) -- http://i.ebayimg.com/00/s/NDA1WDM1MA==/z/NAEAAMXQhuVRRoqX/$T2eC16NHJGQE9noMZGyYBRRoqWv4zQ~~60_35.JPG. Used under US fair use statute."
+  },
+  "camo_gear" : {
+   "display_name"         : "camo gear",
+   "subtitle"             : "Works as an invisibility cloak -- unless you're a giraffe.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#e8f4dc", "trophy_image_border_color" : "#646e59",
+   "text_color"           : "#e8f4dc", "text_outline_color"        : "#646e59",
+   "credit"               : "wilddeer.net.au -- http://wilddeer.net.au/wp-content/uploads/2013/01/camo-gear-max1-3d.jpg. Used under US fair use statute."
+  },
+  "lookout_tower" : {
+   "display_name"         : "lookout tower",
+   "subtitle"             : "Easier than standing on two feet.",
+   "trophy_image_padding" : 0,
+   "filename"             : "lookout_tower",
+   "background_color"     : "#c0e0fc", "trophy_image_border_color" : "#609ed2",
+   "text_color"           : "#c0e0fc", "text_outline_color"        : "#609ed2",
+   "credit"               : "Brandon.wiggins -- http://commons.wikimedia.org/wiki/File:Aztec-peak-lookout-tower.jpg. Creative Commons Attribution-Share Alike 3.0 Unported."
+  },
+  "eggs" : {
+   "display_name"         : "eggs",
+   "subtitle"             : "Rare delicacy.",
+   "trophy_image_padding" : 0,
+   "filename"             : "eggs",
+   "background_color"     : "white", "trophy_image_border_color" : "#c6c6c6",
+   "text_color"           : "white", "text_outline_color"        : "#c6c6c6",
+   "credit"               : "Which came first, the egg or the copyright notice on an egg? Public domain."
+  },
+  "stuffed_toy_mongoose" : {
+   "display_name"         : "stuffed toy mongoose",
+   "subtitle"             : "Eggs are naturally jumpy around one of these.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#f1f5d1", "trophy_image_border_color" : "#4d2f23",
+   "text_color"           : "#f1f5d1", "text_outline_color"        : "#4d2f23",
+   "credit"               : "Animals N More (made by Hansa Toys) -- http://www.animalsnmore.com/thezoo/images/hansa_mongoose_w.jpg. Used under US fair use statute."
+  },
+  "milk" : {
+   "display_name"         : "milk",
+   "subtitle"             : "Nutritious and digusting at the same time.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#ea6e76", "trophy_image_border_color" : "#b53a42",
+   "text_color"           : "white"  , "text_outline_color"        : "#e27179",
+   "credit"               : "http://commons.wikimedia.org/wiki/File:Milk_jug_upright.jpg. Creative Commons Attribution-Share Alike 3.0 Unported."
+  },
+  "wig" : {
+   "display_name"         : "wig",
+   "subtitle"             : "A clever disguise; not to be confused with the party.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#f0f0e8", "trophy_image_border_color" : "#f0f0e8",
+   "text_color"           : "#f0f0e8", "text_outline_color"        : "#929292",
+   "credit"               : "http://commons.wikimedia.org/wiki/File:Julia_Domna_Glyptothek_Munich_354.jpg. Public domain. Enhanced/cut out."
+  },
+  "hemingway_novel" : {
+   "display_name"         : "hemingway novel",
+   "subtitle"             : "A complex walk in the park.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white", "trophy_image_border_color" : "#8db4b9",
+   "text_color"           : "white", "text_outline_color"        : "#8db4b9",
+   "credit"               : "http://www.bookpoi.com -- http://www.bookpoi.com/images/Front%20cover%20For%20Whom%20the%20bell%20Tolls.jpg."
+  },
+  "stuffed_toy_buffalo" : {
+   "display_name"         : "stuffed toy buffalo",
+   "subtitle"             : "You want fries with that?",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#f5e1c7", "trophy_image_border_color" : "#634012",
+   "text_color"           : "#c27b3b", "text_outline_color"        : "#45270b",
+   "credit"               : "wildlifetreasures.com -- http://www.wildlifetreasures.com/images/1548+1683.jpg. Used under US fair use statute."
+  },
+  "insect_repellent" : {
+   "display_name"         : "insect repellent",
+   "subtitle"             : "Stripes are sometimes not enough...",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#b4ffd9", "trophy_image_border_color" : "#127e61",
+   "text_color"           : "#b4ffd9", "text_outline_color"        : "#127e61",
+   "credit"               : "drugstore.com (Deep Woods Off! Insect Repellent)  http://pics1.ds-static.com/prodimg/88571/500.JPG. Used under US fair use statute."
+  },
+  "deodorant" : {
+   "display_name"         : "deodorant",
+   "subtitle"             : "Masks fear.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#f4f4f4", "trophy_image_border_color" : "#afafaf",
+   "text_color"           : "#c32222", "text_outline_color"        : "#245494",
+   "credit"               : "drugstore.com (made by Right Guard) -- http://pics1.ds-static.com/prodimg/152957/500.JPG. Used under US fair use statute."
+  },
+  "tribal_mask-zebra" : {
+   "display_name"         : "tribal mask-zebra",
+   "subtitle"             : "Not recommended attire in a lion den.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white", "trophy_image_border_color" : "#93562d",
+   "text_color"           : "white", "text_outline_color"        : "#93562d",
+   "credit"               : "africanart.com -- http://www.africanart.com/images/products/detail/garaffewtmk.1.jpg. Used under US fair use statute."
+  },
+  "stuffed_toy_zebra" : {
+   "display_name"         : "stuffed toy zebra",
+   "subtitle"             : "More docile than the real thing.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#1d13a7", "trophy_image_border_color" : "#160e7a",
+   "text_color"           : "white"  , "text_outline_color"        : "#160e7a",
+   "credit"               : "Amazon.com (made by Ty) -- http://ecx.images-amazon.com/images/I/71YCfQSW8%2BL._SL1500_.jpg. Used under US fair use statute."
+  },
+  "spotted_hyena_cubs" : {
+   "display_name"         : "spotted hyena cubs",
+   "subtitle"             : "Aren't they cute? Watch out for the claws.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#966819", "trophy_image_border_color" : "#966819",
+   "text_color"           : "#e3d9c2", "text_outline_color"        : "#966819",
+   "credit"               : "GalliasM. http://commons.wikimedia.org/wiki/File:2667_Spotted_Hyena_Cubs.JPG. Public domain."
+  },
+  "lockpicks" : {
+   "display_name"         : "lockpicks",
+   "subtitle"             : "Houses definitely have better food.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white", "trophy_image_border_color" : "#9a9a9a",
+   "text_color"           : "white", "text_outline_color"        : "#9a9a9a",
+   "credit"               : "devonlocks.co.uk -- http://www.devonlocks.co.uk/lock-picking/images/JPXS-6-l.jpg. Used under US fair use statute."
+  },
+  "hyena-ominous_cackle" : {
+   "display_name"         : "ominous cackle",
+   "subtitle"             : "A group of hyenas is called a \"cackle\"!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#442f1e", "trophy_image_border_color" : "#442f1e",
+   "text_color"           : "#c3a571", "text_outline_color"        : "#5f3d16",
+   "credit"               : "wetu.com (by Naboisho camp) -- http://wetu.com/ImageHandler/1280x1280/24414/Naboisho-Conservancy-cackle-of-Hyena-MR.jpg. Used under US fair use statute."
+  },
+  "stuffed_toy_hyena" : {
+   "display_name"         : "stuffed toy hyena",
+   "subtitle"             : "Doesn't eat your leftovers.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white" , "trophy_image_border_color" : "#a6958d",
+   "text_color"           : "a6958d", "text_outline_color"        : "#473d39",
+   "credit"               : "Amazon.com (Disney) -- http://www.amazon.ca/Disney-Stuffed-Animal-Featuring-Banzai/dp/B007UT1ZVW. Used under US fair use statute."
+  },
+  "bananas" : {
+   "display_name"         : "bananas",
+   "subtitle"             : "Banana bonanza!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#dbf807", "trophy_image_border_color" : "#ea9707",
+   "text_color"           : "#dbf807", "text_outline_color"        : "#ea9707",
+   "credit"               : "Marin Wiesheu -- http://commons.wikimedia.org/wiki/File:Platano_de_canarias.jpg. Creative Commons Attribution 2.0 Generic."
+  },
+  "modern_scratching_stick" : {
+   "display_name"         : "modern scratching stick",
+   "subtitle"             : "High-tech gizmo.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white", "trophy_image_border_color" : "#f09462",
+   "text_color"           : "white", "text_outline_color"        : "#f09462",
+   "credit"               : "wellpromo.com -- http://www.wellpromo.com/upload/upimg10/Rubber-Tipped-Wooden-Massager-157310.jpg. Used under US fair use statute."
+  },
+  "science_book" : {
+   "display_name"         : "science book",
+   "subtitle"             : "Be a scholastic chimpion!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#cb2064", "trophy_image_border_color" : "#a80c4a",
+   "text_color"           : "#fff9fb", "text_outline_color"        : "#cb2064",
+   "credit"               : "National Geographic -- http://s7d2.scene7.com/is/image/NationalGeographic/6200337?$product320x320$. Used under US fair use statute."
+  },
+  "stuffed_toy_chimpanzee" : {
+   "display_name"         : "stuffed toy chimpanzee",
+   "subtitle"             : "Cute? Or sinister?",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#3d920a", "trophy_image_border_color" : "#211c16",
+   "text_color"           : "#3d920a", "text_outline_color"        : "#211c16",
+   "credit"               : "bonanza.com (made by Ty) http://s3.amazonaws.com/bonanzleimages/afu/images/4479/3065/ty_plush_CHUCKLES_Chimpanzee_2_of_2_front.JPG. Used under US fair use statute."
+  },
+  "leopard-hunting_instinct" : {
+   "display_name"         : "hunting instinct",
+   "subtitle"             : "You need one to survive around here!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#697d3c", "trophy_image_border_color" : "#3d5606",
+   "text_color"           : "#e48a1f", "text_outline_color"        : "black",
+   "credit"               : "bhmpics.com -- http://www.bhmpics.com/view-running_panther-wide.html. Used under US fair use statute."
+  },
+  "tribal_mask-leopard" : {
+   "display_name"         : "tribal mask-leopard",
+   "subtitle"             : "Don't try to outrun one in this.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#fdf3ee", "trophy_image_border_color" : "#85483f",
+   "text_color"           : "#fdf3ee", "text_outline_color"        : "#85483f",
+   "credit"               : "africanart.com -- http://www.africanart.com/images/products/detail/leopardwtmk.jpg. Used under US fair use statute."
+  },
+  "stuffed_toy_leopard" : {
+   "display_name"         : "stuffed toy leopard",
+   "subtitle"             : "Fierce and wise.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#fdf6e4", "trophy_image_border_color" : "#9f855c",
+   "text_color"           : "#d9d7c8", "text_outline_color"        : "#c59a56",
+   "credit"               : "Photo (c) Flyingsoft Games. (made by Ty)"
+  },
+  "acacia_leaves" : {
+   "display_name"         : "acacia leaves",
+   "subtitle"             : "Joyous leaves of life!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#b5ffa6", "trophy_image_border_color" : "#2c6620",
+   "text_color"           : "#b5ffa6", "text_outline_color"        : "#2c6620",
+   "credit"               : "The Field Museum Library -- http://commons.wikimedia.org/wiki/File:Acacia_tree_and_vegetation.jpg. Public domain."
+  },
+  "ice_cream_cones" : {
+   "display_name"         : "ice cream cones",
+   "subtitle"             : "Horns shape cones. What did you think they were for?!?",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#edebd5", "trophy_image_border_color" : "#8b5727",
+   "text_color"           : "#edebd5", "text_outline_color"        : "#8b5727",
+   "credit"               : "Kamel15 -- http://commons.wikimedia.org/wiki/File:Eiswaffeln_2008_PD_1.JPG. Creative Commons Attribution-Share Alike 3.0 Unported."
+  },
+  "eland-jumping_prowess" : {
+   "display_name"         : "jumping prowess",
+   "subtitle"             : "Eland males can jump.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#718d86", "trophy_image_border_color" : "#718d86",
+   "text_color"           : "#6bdabf", "text_outline_color"        : "#115f4b",
+   "credit"               : "Flickr (Alex Debicki) -- http://www.flickr.com/photos/alexdebicki/5686887752. Used under US fair use statute."
+  },
+  "stuffed_toy_giant_eland" : {
+   "display_name"         : "stuffed toy giant eland",
+   "subtitle"             : "Not as giant, but still formidable.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white", "trophy_image_border_color" : "#8a5d39",
+   "text_color"           : "white", "text_outline_color"        : "#8a5d39",
+   "credit"               : "Hansa -- http://www.hansatoy.info/photos/5164.jpg. Used under US fair use statute."
+  },
+  "salt" : {
+   "display_name"         : "salt",
+   "subtitle"             : "Sable antelopes love this stuff. So do cheetahs, apparently...",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white", "trophy_image_border_color" : "#45475c",
+   "text_color"           : "white", "text_outline_color"        : "#45475c",
+   "credit"               : "Luca Galuzzi - www.galuzzi.it -- http://commons.wikimedia.org/wiki/File:Piles_of_Salt_Salar_de_Uyuni_Bolivia_Luca_Galuzzi_2006_a.jpg. Creative Commons Attribution-Share Alike 2.5 Generic."
+  },
+  "tribal_mask-antelope" : {
+   "display_name"         : "tribal mask-antelope",
+   "subtitle"             : "Headwear, walking, and doors: trouble!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#faf3f2", "trophy_image_border_color" : "#542f27",
+   "text_color"           : "#faf3f2", "text_outline_color"        : "#542f27",
+   "credit"               : "http://www.africanart.com/images/products/detail/gazellewtmk.jpg. Used under US fair use statute."
+  },
+  "stuffed_toy_sable_antelope" : {
+   "display_name"         : "stuffed toy sable antelope",
+   "subtitle"             : "The toy horns are certified 100% cheetah-safe.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#white", "trophy_image_border_color" : "#45475c",
+   "text_color"           : "#white", "text_outline_color"        : "#45475c",
+   "credit"               : "Fiesta / Ebay -- http://i.ebayimg.com/00/s/MTUwM1gxNjAw/z/oJ4AAOxylpNTThk2/$_57.JPG. Used under US fair use statute."
+  },
+  "great_african_migration" : {
+   "display_name"         : "great african migration",
+   "subtitle"             : "An amazing yearly African event!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#b8b8bc", "trophy_image_border_color" : "#494942",
+   "text_color"           : "#b8b8bc", "text_outline_color"        : "#494942",
+   "credit"               : "Singita -- http://singita.com/wp-content/uploads/2013/07/migration_3_7.jpg. Used under US fair use statute."
+  },
+  "night_watch" : {
+   "display_name"         : "night watch",
+   "subtitle"             : "Taking turns to protect and serve!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "black"  , "trophy_image_border_color" : "black",
+   "text_color"           : "#f09462", "text_outline_color"        : "black",
+   "credit"               : "www.rijksmuseum.nl -- http://commons.wikimedia.org/wiki/File:The_Nightwatch_by_Rembrandt.jpg. Public domain."
+  },
+  "baboon_translation_book" : {
+   "display_name"         : "baboon translation book",
+   "subtitle"             : "Must-have for wildebeest-baboon communication.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#922929", "trophy_image_border_color" : "#fef6d9",
+   "text_color"           : "#922929", "text_outline_color"        : "#fef6d9",
+   "credit"               : "Charlie Croker (staffordshire.libraryebooks.co.u) -- http://staffordshire.libraryebooks.co.uk/site/EB/ebooks/catpage3.asp?isbn=9781843177456-6. Used under US fair use statute."
+  },
+  "stuffed_toy_blue_wildebeest" : {
+   "display_name"         : "stuffed toy blue wildebeest",
+   "subtitle"             : "Bluer than the real thing.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#79d2f2", "trophy_image_border_color" : "#37abd6",
+   "text_color"           : "#79d2f2", "text_outline_color"        : "#37abd6",
+   "credit"               : "Table and Home (made by Wild Republic) -- http://www.tableandhome.com/prodimages/75092.jpg. Used under US fair use statute."
+  },
+  "burrow" : {
+   "display_name"         : "burrow",
+   "subtitle"             : "It's not like you can build a manor here.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#b09277", "trophy_image_border_color" : "#4e2c16",
+   "text_color"           : "#cdb397", "text_outline_color"        : "#4e2c16",
+   "credit"               : "Gunnar Ries -- http://commons.wikimedia.org/wiki/File:Pr%C3%A4riehund_P1010308.JPG.  Creative Commons Attribution-Share Alike 2.5 Generic."
+  },
+  "meerkat-inquisitiveness" : {
+   "display_name"         : "inquisitiveness",
+   "subtitle"             : "Smarter than the average mongoose!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#6f563b", "trophy_image_border_color" : "#6f563b",
+   "text_color"           : "#e99f55", "text_outline_color"        : "#734d24",
+   "credit"               : "Daily Mail (Solent News and Photo Agency) -- http://i.dailymail.co.uk/i/pix/2011/08/29/article-2031349-0D9E0F5C00000578-69_634x435.jpg. Used under US fair use statute."
+  },
+  "manor" : {
+   "display_name"         : "manor",
+   "subtitle"             : "It's a manor, possibly for meerkats.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#5a7cbc", "trophy_image_border_color" : "#616161",
+   "text_color"           : "#f3e9da", "text_outline_color"        : "#616161",
+   "credit"               : "Eigenes Werk -- http://commons.wikimedia.org/wiki/File:Kulturdenkmal_Schloss_Gl%C3%BCcksburg_4.1g_Wasserschloss_NO-Ans_Schleswig-Holstein_Foto_Wolfgang_Pehlemann_DSCN0197.jpg. Commons Attribution-Share Alike 3.0 Unported."
+  },
+  "stuffed_toy_meerkat" : {
+   "display_name"         : "stuffed toy meerkat",
+   "subtitle"             : "Meerkats sometimes can't tell the difference...",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#6a99cd", "trophy_image_border_color" : "#227dc4",
+   "text_color"           : "#c6e6ff", "text_outline_color"        : "#227dc4",
+   "credit"               : "Amazon.com (made by Hansa) -- http://ecx.images-amazon.com/images/I/61YeHHztHgL._SL1500_.jpg. Used under US fair use statute."
+  }, 
+  "nuts" : {
+   "display_name"         : "nuts",
+   "subtitle"             : "Lowers cholesterol and heart-healthy!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#fcedd9", "trophy_image_border_color" : "#7d3a2a",
+   "text_color"           : "#fcedd9", "text_outline_color"        : "#7d3a2a",
+   "credit"               : "nuts.com -- http://cdn.nuts.com/images/auto/801x534/assets/0f73019f521e7d31.jpg. Public domain."
+  },
+  "nutcracker" : {
+   "display_name"         : "nutcracker",
+   "subtitle"             : "Never leave home without one.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#41b32e", "trophy_image_border_color" : "#138210",
+   "text_color"           : "#41b32e", "text_outline_color"        : "#138210",
+   "credit"               : "Moscow Ballet / nutcracker.com -- http://www.nutcracker.com/magento/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/3/2/32-532_nc_red_king.jpg. Used under US fair use statute."
+  },
+  "nutella" : {
+   "display_name"         : "nutella",
+   "subtitle"             : "Delicious palm oil, hazel nuts, and sugar.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white"  , "trophy_image_border_color" : "black",
+   "text_color"           : "#f84320", "text_outline_color"        : "black",
+   "credit"               : "nutellausa.com -- http://www.nutellausa.com/index.html. Used under US fair use statute."
+  },
+  "stuffed_toy_squirrel" : {
+   "display_name"         : "stuffed toy squirrel",
+   "subtitle"             : "Not as nuts for nuts as an actual squirrel.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#81411b", "trophy_image_border_color" : "#4d1e0e",
+   "text_color"           : "#81411b", "text_outline_color"        : "#4d1e0e",
+   "credit"               : "bbtoystore.com (made by Ty) -- http://www.bbtoystore.com/mm5/beanies/scrat-40976.jpg. Used under US fair use statute."
+  },
+  "moisturizing_cream" : {
+   "display_name"         : "moisturizing cream",
+   "subtitle"             : "Helps prevent dry skin caused by the sweltering African sun.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white", "trophy_image_border_color" : "#abb09f",
+   "text_color"           : "white", "text_outline_color"        : "#abb09f",
+   "credit"               : "cetaphil.com (made by Galderma Laboratories) -- http://cdn2.bigcommerce.com/n-biq04i/t184eva/products/79/images/339/DAL_8oz_front__46353.1404285927.1280.1280.jpg. Used under US fair use statute."
+  },
+  "toothpaste" : {
+   "display_name"         : "toothpaste",
+   "subtitle"             : "Helps keep those \"pearly whites\" healthy...",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white", "trophy_image_border_color" : "#186c63",
+   "text_color"           : "white", "text_outline_color"        : "#186c63",
+   "credit"               : "colgatetotal.com (made by Colgate) -- http://www.colgatetotal.com/ColgateTotal/v5/US/EN/locale-assets/images/heros/PDP-Toothpaste-Large-FreshWhitening.png.  Used under US fair use statute."
+  },
+  "stuffed_toy_crocodile" : {
+   "display_name"         : "stuffed toy crocodile",
+   "subtitle"             : "Fewer sharp teeth than the real thing.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white"  , "trophy_image_border_color" : "#34855e",
+   "text_color"           : "#2cc168", "text_outline_color"        : "#296f52",
+   "credit"               : "bbtoystore.com (made by Ty) http://www.bbtoystore.com/mm5/beanies/chompy.jpg. Used under US fair use statute."
+  },
+  "bullseye" : {
+   "display_name"         : "bullseye",
+   "subtitle"             : "Never mistake rhinos for dart boards.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#4d5c3f", "trophy_image_border_color" : "#158a47",
+   "text_color"           : "#ff0000", "text_outline_color"        : "#6d0808",
+   "credit"               : "Christian Gidlöf -- http://en.wikipedia.org/wiki/File:Harrows_Bristle_Board_Bullseye.JPG. Creative Commons Attribution 2.5 Generic."
+  },
+  "muddy_pond" : {
+   "display_name"         : "muddy pond",
+   "subtitle"             : "Useful to hide in, as predator or prey.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#88987d", "trophy_image_border_color" : "#4d5c3f",
+   "text_color"           : "#88987d", "text_outline_color"        : "#4d5c3f",
+   "credit"               : "texturelib.com -- http://texturelib.com/Textures/soil/mud/soil_mud_0050_01_crop.jpg. Licensed: \"free for commercial use\"."
+  },
+  "pears" : {
+   "display_name"         : "pears",
+   "subtitle"             : "A rare treat for grass grazers.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#7a831b", "trophy_image_border_color" : "#7a831b",
+   "text_color"           : "#f1ce2b", "text_outline_color"        : "#299815",
+   "credit"               : "ProjectManhattan -- http://commons.wikimedia.org/wiki/File:Nice_Pears.jpg. Public domain."
+  },
+  "stuffed_toy_rhino" : {
+   "display_name"         : "stuffed toy rhino",
+   "subtitle"             : "Much less dangerous than the real thing.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white", "trophy_image_border_color" : "#685940",
+   "text_color"           : "white", "text_outline_color"        : "#685940",
+   "credit"               : "bigfatballoons.com (made by Nici) http://www.bigfatballoons.co.uk/images/products/big/st0126_big.jpg. Used under US fair use statute."
+  },
+  "watering_hole" : {
+   "display_name"         : "watering hole",
+   "subtitle"             : "Water, water, everywhere...",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#585b49", "trophy_image_border_color" : "black",
+   "text_color"           : "#007ff5", "text_outline_color"        : "#1044ae",
+   "credit"               : "David Earley -- http://commons.wikimedia.org/wiki/File:Water_hole_addo_elephant_park.jpg. Public domain."
+  },
+  "barber's_pole" : {
+   "display_name"         : "barber's pole",
+   "subtitle"             : "Grooming is very important for primates.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white", "trophy_image_border_color" : "#346ccc",
+   "text_color"           : "white", "text_outline_color"        : "#238bec",
+   "credit"               : "icollector.com -- original URL no longer exists. Used under US fair use statute."
+  },
+  "troop_formations" : {
+   "display_name"         : "troop formations",
+   "subtitle"             : "A troop of baboons.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#eeeeee", "trophy_image_border_color" : "#3b621f",
+   "text_color"           : "#78e629", "text_outline_color"        : "#3b621f",
+   "credit"               : "Harvey Barrison -- http://commons.wikimedia.org/wiki/File:Tarangire_2012_05_27_2031_%287468493884%29.jpg. Creative Commons Attribution-Share Alike 2.0 Generic."
+  },
+  "stuffed_toy_baboon" : {
+   "display_name"         : "stuffed toy baboon",
+   "subtitle"             : "Easy (but not very nutritious) prey for a lion.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#3c8684", "trophy_image_border_color" : "#1c5150",
+   "text_color"           : "#3c8684", "text_outline_color"        : "#1c5150",
+   "credit"               : "auntyanimal.me.uk (made by Ty) -- http://www.auntyanimal.me.uk/Baboon.jpg. Used under US fair use statute."
+  },
+  "african_cherry_orange" : {
+   "display_name"         : "African cherry orange",
+   "subtitle"             : "Monkeys eat this all day!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#1d5f3c", "trophy_image_border_color" : "#1d5f3c",
+   "text_color"           : "#f5b044", "text_outline_color"        : "#b47926",
+   "credit"               : "tradewindsfruit.com -- http://www.tradewindsfruit.com/content/images/west_african_cherry_orange3.jpg. Used under US fair use statute."
+  },
+  "sycamore_fig" : {
+   "display_name"         : "sycamore fig",
+   "subtitle"             : "Housing and fruit: what more can you ask for?",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#dc7064", "trophy_image_border_color" : "#8e3428",
+   "text_color"           : "#dc7064", "text_outline_color"        : "#8e3428",
+   "credit"               : "Atamari -- http://commons.wikimedia.org/wiki/File:Ficus_sycomorus_0001.jpg. Creative Commons Attribution-Share Alike 3.0 Unported."
+  },
+  "bamboo" : {
+   "display_name"         : "bamboo",
+   "subtitle"             : "For clothing, drapery, housing, and eating!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#62b92c", "trophy_image_border_color" : "#147a17",
+   "text_color"           : "#62b92c", "text_outline_color"        : "#147a17",
+   "credit"               : "www.freetimelinecovers.net -- http://www.freetimelinecovers.net/images/nature-covers/bamboo.jpg. Used under US fair use statute."
+  },
+  "stuffed_toy_monkey" : {
+   "display_name"         : "stuffed toy monkey",
+   "subtitle"             : "Eats fewer bananas than the real thing.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#feffa4", "trophy_image_border_color" : "#ce953b",
+   "text_color"           : "#feffa4", "text_outline_color"        : "#d79e45",
+   "credit"               : "Amazon (made by Ty) -- http://ecx.images-amazon.com/images/I/91RBEIoIGPL._SL1500_.jpg. Used under US fair use statute."
+  },
+  "bark" : {
+   "display_name"         : "bark",
+   "subtitle"             : "Not delicious or nutritious!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#c7c7c7", "trophy_image_border_color" : "#444444",
+   "text_color"           : "#c7c7c7", "text_outline_color"        : "#656565",
+   "credit"               : "cgtextures.com -- http://www.cgtextures.com/texview.php?id=15894. Used under license."
+  },
+  "gas_mask" : {
+   "display_name"         : "gas mask",
+   "subtitle"             : "Makes red colobus monkeys approachable.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#2b8aad", "trophy_image_border_color" : "#2f433e",
+   "text_color"           : "#2b8aad", "text_outline_color"        : "#2f433e",
+   "credit"               : "qmuniforms.com (made by Survivair) -- http://www.qmuniforms.com/photos/styles/qm/ZOOM/S67-201.JPG. Used under US fair use statute."
+  },
+  "charcoal" : {
+   "display_name"         : "charcoal",
+   "subtitle"             : "Aids in the digestion of toxins.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#d1d1d1", "trophy_image_border_color" : "#454249",
+   "text_color"           : "#d1d1d1", "text_outline_color"        : "#454249",
+   "credit"               : "rockwoodcharcoal.com -- http://rockwoodcharcoal.com/wp-content/uploads/2013/03/charcoal-home.png. Used under US fair use statute."
+  },
+  "stuffed_toy_colobus_monkey" : {
+   "display_name"         : "stuffed toy colobus monkey",
+   "subtitle"             : "Wants to be a real monkey!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#eeeeee", "trophy_image_border_color" : "#314d3a",
+   "text_color"           : "#eeeeee", "text_outline_color"        : "#50598f",
+   "credit"               : "wildfutures.org -- http://shop.wildfutures.org/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/c/o/colobus_monkey_teddy_2_.jpg. Used under US fair use statute."
+  },
+  "large_hair_brush" : {
+   "display_name"         : "large hair brush",
+   "subtitle"             : "Grooming made easy!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#db5353", "trophy_image_border_color" : "#aa3131",
+   "text_color"           : "#db5353", "text_outline_color"        : "#aa3131",
+   "credit"               : "tibaspa.com (made by Janeke) -- http://www.tibaspa.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/p/spk97k.jpg. Used under US fair use statute."
+  },
+  "foxhole" : {
+   "display_name"         : "foxhole",
+   "subtitle"             : "Home sweet home.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#619766", "trophy_image_border_color" : "#4d4e49",
+   "text_color"           : "#619766", "text_outline_color"        : "#4d4e49",
+   "credit"               : "US military -- http://www.sinaimg.cn/dy/slidenews/61_img/2013_35/40602_778736_957911.jpg. Public domain."
+  },
+  "satellite" : {
+   "display_name"         : "satellite",
+   "subtitle"             : "Foxes have tiny satellites in their ears...",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white"  , "trophy_image_border_color" : "white",
+   "text_color"           : "#5287f5", "text_outline_color"        : "#1f22b1",
+   "credit"               : "esa.int -- http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2003/01/artemis_satellite_artist_s_view/9518536-4-eng-GB/Artemis_satellite_artist_s_view.jpg. Used under US fair use statute."
+  },
+  "stuffed_toy_fox" : {
+   "display_name"         : "stuffed toy fox",
+   "subtitle"             : "Not as cunning as the real thing.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#3a9117", "trophy_image_border_color" : "#2b6c11",
+   "text_color"           : "#f9a33e", "text_outline_color"        : "#1f7d13",
+   "credit"               : "bbtoystore.com (made by Ty) -- http://www.bbtoystore.com/mm5/beanies/mrtod.jpg. Used under US fair use statute."
+  }, 
+  "citrus_leaves" : {
+   "display_name"         : "citrus leaves",
+   "subtitle"             : "Delicious and nutritious...",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#92866b", "trophy_image_border_color" : "#397f1f",
+   "text_color"           : "#69d541", "text_outline_color"        : "#397f1f",
+   "credit"               : "Forest & Kim Starr -- http://commons.wikimedia.org/wiki/File:Starr_080610-8273_Citrus_hystrix.jpg.  Creative Commons Attribution 3.0 Unported."
+  },
+  "sunscreen" : {
+   "display_name"         : "sunscreen",
+   "subtitle"             : "Helps protect sensitive areas.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white" , "trophy_image_border_color" : "#b7c3cf",
+   "text_color"           : "d4d9de", "text_outline_color"        : "#717b85",
+   "credit"               : "neutragena.com -- http://images.neutrogena.com/images/products_store/en_us/product_images/6868785_600x600.jpg. Used under US fair use statute."
+  },
+  "sun_umbrella" : {
+   "display_name"         : "sun umbrella",
+   "subtitle"             : "When it's just too hot to handle.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#877e67", "trophy_image_border_color" : "#5f5949",
+   "text_color"           : "#f8c3d9", "text_outline_color"        : "#b4279b",
+   "credit"               : "Michael Coghlan -- http://commons.wikimedia.org/wiki/File:The_Noon_Day_Sun_%288391053507%29.jpg. Creative Commons Attribution-Share Alike 2.0 Generic."
+  },
+  "stuffed_toy_cape_hyrax" : {
+   "display_name"         : "stuffed toy cape hyrax",
+   "subtitle"             : "Lies around all day, just like the real thing.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#d0e782", "trophy_image_border_color" : "#9da12a",
+   "text_color"           : "#edcb8c", "text_outline_color"        : "#7a6643",
+   "credit"               : "kalahari.com (made by Born in Africa) http://images.kalahari.net/img/2013/07/31/47639459_0_Img2.jpg. Used under US fair use statute."
+  },     
+  "beetle_appetizer" : {
+   "display_name"         : "beetle appetizer",
+   "subtitle"             : "A bite-sized healthy snack...",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#5d9860", "trophy_image_border_color" : "#346b31",
+   "text_color"           : "#40ba27", "text_outline_color"        : "#3d6f3b",
+   "credit"               : "Scott Bauer, USDA -- http://commons.wikimedia.org/wiki/File:Asian_multicolored_lady_beetle.jpg. Public domain."
+  },
+  "straw" : {
+   "display_name"         : "straw",
+   "subtitle"             : "Fresh straw is great for bedding.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#905b2a", "trophy_image_border_color" : "#6e4b1c",
+   "text_color"           : "#edd087", "text_outline_color"        : "#b68c45",
+   "credit"               : "flatoutfree.com -- http://flatoutfree.com/straw_on_thanksgiving.htm. Used under US fair use statute."
+  },
+  "mushroom_treats" : {
+   "display_name"         : "mushroom treats",
+   "subtitle"             : "Safety food.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#ddddd3", "trophy_image_border_color" : "#ddddd3",
+   "text_color"           : "#ddddd3", "text_outline_color"        : "#404022",
+   "credit"               : "Maulaff -- http://commons.wikimedia.org/wiki/File:Obernau_-_Pilze_im_Wald_01.jpg. Creative Commons Attribution-Share Alike 3.0 Unported."
+  },
+  "stuffed_toy_hedgehog" : {
+   "display_name"         : "stuffed toy hedgehog",
+   "subtitle"             : "More cuddly than the real thing.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#e7d7b3", "trophy_image_border_color" : "#56391b",
+   "text_color"           : "#e2d4ad", "text_outline_color"        : "#56391b",
+   "credit"               : "alibaba.com (made by member ID: cn1501530223) http://img.alibaba.com/img/pb/324/534/718/718534324_697.jpg. Used under US fair use statute."
+  },
+  "tool_handbook" : {
+   "display_name"         : "tool handbook",
+   "subtitle"             : "For the industrious.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white"  , "trophy_image_border_color" : "#0091e2",
+   "text_color"           : "#0091e2", "text_outline_color"        : "black",
+   "credit"               : "standardsmedia.com (CMTI) -- http://www.standardsmedia.com/book_images/1962_9780074515648.jpg.. Used under US fair use statute."
+  },
+  "wrestling_medal" : {
+   "display_name"         : "wrestling medal",
+   "subtitle"             : "A medal for sprightly animals.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white"  , "trophy_image_border_color" : "#2f433e",
+   "text_color"           : "#f0b12b", "text_outline_color"        : "black",
+   "credit"               : "columbustrophies.com -- http://www.columbustrophies.com/index.php/about/wrestling/plaques.html. Used under US fair use statute."
+  },
+  "arrow_shield" : {
+   "display_name"         : "arrow shield",
+   "subtitle"             : "Tough as nails!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "black"  , "trophy_image_border_color" : "black",
+   "text_color"           : "#acd7f9", "text_outline_color"        : "#2371aa",
+   "credit"               : "MatthiasKabel -- http://commons.wikimedia.org/wiki/File:Scutum_1.jpg. Creative Commons Attribution-Share Alike 3.0 Unported."
+  },
+  "stuffed_toy_honey_badger" : {
+   "display_name"         : "stuffed toy honey badger",
+   "subtitle"             : "Toy honey badger does care!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#fbfbf5", "trophy_image_border_color" : "#565338",
+   "text_color"           : "#fbc112", "text_outline_color"        : "#7a5504",
+   "credit"               : "alchemyinitiative.org (KnitSquid Fiber Arts) -- http://alchemyinitiative.org/wp-content/uploads/2013/11/KnitSquid.png. Used under US fair use statute."
+  },
+  "race_track" : {
+   "display_name"         : "race track",
+   "subtitle"             : "Good thing rabbits don't have opposable thumbs.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#272c35", "trophy_image_border_color" : "#474c50",
+   "text_color"           : "#939fa9", "text_outline_color"        : "#474c50",
+   "credit"               : "Morio -- http://commons.wikimedia.org/wiki/File:Opening_lap_of_GT500_Race_1_2010_JAF_Grand_Prix.jpg. Creative Commons Attribution-Share Alike 3.0 Unported."
+  },
+  "lucky_dice" : {
+   "display_name"         : "lucky dice",
+   "subtitle"             : "Very, very lucky. And old.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#2daaae", "trophy_image_border_color" : "#177b7e",
+   "text_color"           : "#2daaae", "text_outline_color"        : "#177b7e",
+   "credit"               : "Amazon.com (made by Sumex) -- http://ecx.images-amazon.com/images/I/41%2BeR9IhfZL.jpg. Used under US fair use statute."
+  },
+  "earmuffs" : {
+   "display_name"         : "earmuffs",
+   "subtitle"             : "Delicate ear protection.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white"  , "trophy_image_border_color" : "#e0ccb1",
+   "text_color"           : "#e0ccb1", "text_outline_color"        : "#81643c",
+   "credit"               : "lorisshoes.com (Nathaniel Cole) http://www.lorisshoes.com/Images/ProductFull/62755-5/fur-ear-muffs.jpg. Used under US fair use statute."
+  },
+  "stuffed_toy_hare" : {
+   "display_name"         : "stuffed toy hare",
+   "subtitle"             : "Can't pick just one...",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white" , "trophy_image_border_color" : "#b393e9",
+   "text_color"           : "#b393e9", "text_outline_color"       : "#6b38c2",
+   "credit"               : "HappyDollsByLesya (Etsy) -- http://www.etsy.com/listing/180185923/stuffed-bunny-rabbit-hare-plush-rabbit and http://www.etsy.com/listing/180185573/stuffed-bunny-rabbit-hare-plush-rabbit. Used under US fair use statute."
+  },
+  "warthog-sunny_disposition" : {
+   "display_name"         : "sunny disposition",
+   "subtitle"             : "A happy warthog.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#a2b470", "trophy_image_border_color" : "#5b5652",
+   "text_color"           : "#b7b0aa", "text_outline_color"        : "#5b5652",
+   "credit"               : "Peter Maas -- http://commons.wikimedia.org/wiki/File:Warthog_08.JPG. Creative Commons Attribution-Share Alike 3.0 Unported."
+  },
+  "rhizomes" : {
+   "display_name"         : "rhizomes",
+   "subtitle"             : "Underground treats.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#402c1f", "trophy_image_border_color" : "#402c1f",
+   "text_color"           : "#f1d6b5", "text_outline_color"        : "#bd6b0a",
+   "credit"               : "H. Zell -- http://commons.wikimedia.org/wiki/File:Zingiber_officinale_002.JPG. Creative Commons Attribution-Share Alike 3.0 Unported."
+  },
+  "stuffed_toy_warthog" : {
+   "display_name"         : "stuffed toy warthog",
+   "subtitle"             : "Seems more animated than the real thing.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#87e974", "trophy_image_border_color" : "#3d920a",
+   "text_color"           : "#87e974", "text_outline_color"        : "#3d920a",
+   "credit"               : "Amazon.com (made by Disney) -- http://ecx.images-amazon.com/images/I/51Eoe2gjsyL.jpg. Used under US fair use statute."
+  },
+  "black_crowned_crane-flight" : {
+   "display_name"         : "flight",
+   "subtitle"             : "Very aerodynamic.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#cacbce", "trophy_image_border_color" : "#7b7b7b",
+   "text_color"           : "#c4c5c8", "text_outline_color"        : "#7b7b7b",
+   "credit"               : "Lip Kee -- http://commons.wikimedia.org/wiki/File:Grey_Crowned-Crane_%28Balearica_regulorum%29_-_Flickr_-_Lip_Kee.jpg. Creative Commons Attribution-Share Alike 2.0 Generic."
+  },
+  "construction_crane" : {
+   "display_name"         : "construction_crane",
+   "subtitle"             : "Misnomer.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#3761b7", "trophy_image_border_color" : "#3761b7",
+   "text_color"           : "#ffe034", "text_outline_color"        : "#1b1b1b",
+   "credit"               : "Hydrogen Iodide -- http://upload.wikimedia.org/wikipedia/commons/3/3e/555_Mission_Street_2_in_San_Francisco.JPG. Public domain."
+  },
+  "crown" : {
+   "display_name"         : "crown",
+   "subtitle"             : "The king crane's crown has a crown.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#60178a", "trophy_image_border_color" : "#470d68",
+   "text_color"           : "#c24aee", "text_outline_color"        : "#7914b2",
+   "credit"               : "http://en.wikipedia.org/wiki/File:Crown_of_George_XII_of_Georgia.jpeg. Public domain."
+  },
+  "stuffed_toy_crane" : {
+   "display_name"         : "stuffed toy crane",
+   "subtitle"             : "Can't stand on one foot.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#f4a7a2", "trophy_image_border_color" : "#9b1a12",
+   "text_color"           : "#f4a7a2", "text_outline_color"        : "#9b1a12",
+   "credit"               : "rowesanctuary.org -- http://store.rowesanctuary.org/ProductDetails/tabid/89/ProductID/3/sandhill,crane,plush,toy,rowe,sanctuary,children/Default.aspx. Used under US fair use statute."
+  },
+  "scale_armor" : {
+   "display_name"         : "scale armor",
+   "subtitle"             : "Engineering, evolution, or both?",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#4c5f7e", "trophy_image_border_color" : "#4c5f7e",
+   "text_color"           : "#e3e8ff", "text_outline_color"        : "#39518f",
+   "credit"               : "John Tremelling -- http://commons.wikimedia.org/wiki/File:Ancient_Sasanid_Cataphract_Uther_Oxford_2003_06_2%281%29.jpg. Creative Commons Attribution-Share Alike 3.0 Unported."
+  },
+  "eyeglasses" : {
+   "display_name"         : "eyeglasses",
+   "subtitle"             : "The animals can find their car keys now!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#d1d1d1", "trophy_image_border_color" : "#454249",
+   "text_color"           : "#d1d1d1", "text_outline_color"        : "#454249",
+   "credit"               : "tay-ban.com -- http://www.ray-ban.com/usa/eyeglasses/RX5228-RB5228-Black/805289445913?cid=PI04_GooglePLA_0RX5228%202000%20%2050_805289445913. Used under US fair use statute."
+  },
+  "stuffed_toy_pangolin" : {
+   "display_name"         : "stuffed toy pangolin",
+   "subtitle"             : "Not as lively, but I'll take it.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#2a211d", "trophy_image_border_color" : "#957960",
+   "text_color"           : "#d9b7a1", "text_outline_color"        : "#85694d",
+   "credit"               : "deviantart (demiveemon) - http://demiveemon.deviantart.com/art/Plush-Pangolin-family-photo-295440350. Used under US fair use statute."
+  },
+  "hawthorn" : {
+   "display_name"         : "hawthorn",
+   "subtitle"             : "Jackals are omnivores.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#3c5527", "trophy_image_border_color" : "#154707",
+   "text_color"           : "#da1414", "text_outline_color"        : "#1b560a",
+   "credit"               : "4028mdk09 -- http://commons.wikimedia.org/wiki/File:Wei%C3%9Fdorn_auf_Juist.JPG. Creative Commons Attribution-Share Alike 3.0 Unported."
+  },
+  "golden_jackal-alert_look" : {
+   "display_name"         : "alert look",
+   "subtitle"             : "Who's there?",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#281614", "trophy_image_border_color" : "#281614",
+   "text_color"           : "#e4ba94", "text_outline_color"        : "#7d5732",
+   "credit"               : "Artemy Voikhansky -- http://commons.wikimedia.org/wiki/File:Golden_jackal.jpg. Creative Commons Attribution-Share Alike 3.0 Unported."
+  },
+  "stuffed_toy_jackal" : {
+   "display_name"         : "stuffed toy jackal",
+   "subtitle"             : "Won't bite you at night.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white" , "trophy_image_border_color" : "#964720",
+   "text_color"           : "cb5419", "text_outline_color"        : "#752c10",
+   "credit"               : "flipkart.com (Soft Buddies) http://img5a.flixcart.com/image/stuffed-toy/c/w/y/soft-buddies-9-sb-jackal-1100x1100-imadwbfjfz5nuxxe.jpeg. Used under US fair use statute."
+  },
+  "camel_smooch" : {
+   "display_name"         : "camel smooch",
+   "subtitle"             : "Feelin' the love.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#bfe1ea", "trophy_image_border_color" : "#bfe1ea",
+   "text_color"           : "#f25c5c", "text_outline_color"        : "#821111",
+   "credit"               : "David Dennis -- http://commons.wikimedia.org/wiki/File:Flickr_-_DavidDennisPhotos.com_-_Man_Kissing_Camel_near_Sphinx_in_Cairo.jpg.  Creative Commons Attribution-Share Alike 2.0 Generic."
+  },
+  "camel-indifferent_look" : {
+   "display_name"         : "indifferent look",
+   "subtitle"             : "Absolute indifference.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#e5d4ba", "trophy_image_border_color" : "#253605",
+   "text_color"           : "#e4dabd", "text_outline_color"        : "#8c834f",
+   "credit"               : "http://commons.wikimedia.org/wiki/File:Brosen_camelus1.jpg. Creative Commons Attribution 2.5 Generic."
+  },
+  "stuffed_toy_camel" : {
+   "display_name"         : "stuffed toy camel",
+   "subtitle"             : "Looks cute; doesn't spit!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#ffffe5", "trophy_image_border_color" : "#986a28",
+   "text_color"           : "#fffce5", "text_outline_color"        : "#986a28",
+   "credit"               : "stuffedark.com -- http://stuffedark.com/images/camelft19.jpg. Used under US fair use statute."
+  },
+  "feather_duster" : {
+   "display_name"         : "feather duster",
+   "subtitle"             : "Nature's ceiling fan cleaner.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#fdffec", "trophy_image_border_color" : "#7e8164",
+   "text_color"           : "#fdffec", "text_outline_color"        : "#7e8164",
+   "credit"               : "becknerfeatherduster.com -- http://www.becknerfeatherduster.com/wp-content/uploads/2011/12/1stquality.jpg. Used under US fair use statute."
+  },
+  "ostrich-suspicious_look" : {
+   "display_name"         : "suspicious look",
+   "subtitle"             : "For breakfast: jumbo scrambled eggs.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#84b5b8", "trophy_image_border_color" : "#84b5b8",
+   "text_color"           : "#8fc7ca", "text_outline_color"        : "#33787c",
+   "credit"               : "A. Kniesel -- http://en.wikipedia.org/wiki/File:Afrikanischer_Strauss_Portrait.jpg. Creative Commons Attribution-Share Alike 3.0 Unported."
+  },
+  "ostrich_feather_tree" : {
+   "display_name"         : "ostrich feather tree",
+   "subtitle"             : "A delight at weddings and special events.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#12a638", "trophy_image_border_color" : "#126f29",
+   "text_color"           : "#e7e2df", "text_outline_color"        : "#88a08e",
+   "credit"               : "DHgate.com marketplace (sold by Sowder) -- http://www.dhresource.com/albu_726196646_00-1.0x0/_100-pcs-a-lot-14-16inch-white-ostrich-feather.jpg. Used under US fair use statute."
+  },
+  "stuffed_toy_ostrich" : {
+   "display_name"         : "stuffed toy ostrich",
+   "subtitle"             : "More cuddly than an actual ostrich.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white"  , "trophy_image_border_color" : "#cebab1",
+   "text_color"           : "#cebab1", "text_outline_color"        : "#725f56",
+   "credit"               : "republicjewelry.com (made by Ty) -- http://www.republicjewelry.com/images/BD_stretch.jpg. Used under US fair use statute."
+  },
+  "shrimp" : {
+   "display_name"         : "shrimp",
+   "subtitle"             : "Just eat it and don't think.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#67878e", "trophy_image_border_color" : "#cb778d",
+   "text_color"           : "#ebc5c9", "text_outline_color"        : "#7c8381",
+   "credit"               : "Tomasz Sienicki -- http://commons.wikimedia.org/wiki/File:Woda-6_ubt.jpeg. Creative Commons Attribution-Share Alike 3.0 Unported."
+  },
+  "algae" : {
+   "display_name"         : "algae",
+   "subtitle"             : "The pasta of flamingo food.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#93bc58", "trophy_image_border_color" : "#626933",
+   "text_color"           : "#93bc58", "text_outline_color"        : "#626933",
+   "credit"               : "Toby Hudson -- http://commons.wikimedia.org/wiki/File:NSW_seabed_1.JPG.  the Creative Commons Attribution-Share Alike 3.0 Unported."
+  },
+  "stuffed_toy_flamingo" : {
+   "display_name"         : "stuffed toy flamingo",
+   "subtitle"             : "Can't balance on two legs, let alone one!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#9ad1ef", "trophy_image_border_color" : "#2d749a",
+   "text_color"           : "#ffbbd2", "text_outline_color"        : "#de3d56",
+   "credit"               : "tycollector.com (made by Ty) -- http://www.tycollector.com/beanies/bb-images/pinky-4072.jpg. Used under US fair use statute."
+  },
+  "fly_swatter" : {
+   "display_name"         : "fly swatter",
+   "subtitle"             : "For lazy frogs. Lazy frogs with opposable thumbs.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white"  , "trophy_image_border_color" : "#4acd34",
+   "text_color"           : "#4acd34", "text_outline_color"        : "#329423",
+   "credit"               : "Uploaded by bnielsen -- https://openclipart.org/detail/33853. Public Domain."
+  },
+  "a_kiss" : {
+   "display_name"         : "a kiss",
+   "subtitle"             : "Will you get a prince, or will you get salmonella?",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white"  , "trophy_image_border_color" : "#a22727",
+   "text_color"           : "#ff0000", "text_outline_color"        : "#a22727",
+   "credit"               : "Uploaded by molumen -- https://openclipart.org/detail/12061/lips-by-molumen-12061. Public domain."
+  },
+  "frog_baskets" : {
+   "display_name"         : "frog baskets",
+   "subtitle"             : "At least they weren't frozen in carbonite.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#c09f76", "trophy_image_border_color" : "#9d7a35",
+   "text_color"           : "#e2c667", "text_outline_color"        : "#9d7a35",
+   "credit"               : "NH53 -- https://www.flickr.com/photos/nh53/6058712063. Creative Commons Attribution 2.0 Generic."
+  },
+  "stuffed_toy_frog" : {
+   "display_name"         : "stuffed toy frog",
+   "subtitle"             : "Won't catch flies... unless you douse it with Raid (tm)!",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white"  , "trophy_image_border_color" : "#d5bf29",
+   "text_color"           : "#7ca13a", "text_outline_color"        : "#2b5942",
+   "credit"               : "kindercraft (Etsy) -- https://www.etsy.com/listing/203448114/the-frog-prince-fairy-tale-enchanted. Used under US fair use statute."
+  },
+  "moringa_seeds" : {
+   "display_name"         : "moringa seeds",
+   "subtitle"             : "Reportedly anti-fungal, anti-viral, antiseptic, and antibacterial.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#ab947d", "trophy_image_border_color" : "#9c8772",
+   "text_color"           : "#ab947d", "text_outline_color"        : "#735332",
+   "credit"               : "Forest and Kim Starr -- https://www.flickr.com/photos/starr-environmental/9179572175. Creative Commons Attribution 2.0 Generic."
+  },
+  "moringa_flowers" : {
+   "display_name"         : "moringa flowers",
+   "subtitle"             : "Well, they look pretty... must taste pretty, too?",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white"  , "trophy_image_border_color" : "#efe8b3",
+   "text_color"           : "#ede6af", "text_outline_color"        : "#b15613, #93872e",
+   "credit"               : "Hafiz Issadeen -- https://www.flickr.com/photos/yimhafiz/3219567137. Creative Commons Attribution 2.0 Generic."
+  },
+  "moringa_leaves" : {
+   "display_name"         : "moringa leaves",
+   "subtitle"             : "So many vitamins and minerals, it's like a living GNC.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#bd5437", "trophy_image_border_color" : "#5bb301",
+   "text_color"           : "#5fb70f", "text_outline_color"        : "#4a850d",
+   "credit"               : "Hari Prasad Nadig -- https://www.flickr.com/photos/hpnadig/7561107678. Creative Commons Attribution Share-Alike 2.0 Generic."
+  },
+  "stuffed_toy_yellow-billed_hornbill" : {
+   "display_name"         : "stuffed toy yellow-billed hornbill",
+   "subtitle"             : "Those eyes...",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white"  , "trophy_image_border_color" : "#f3d85c",
+   "text_color"           : "#f3d85c", "text_outline_color"        : "#998423",
+   "credit"               : "Amazon.com (made by Hansa) -- http://www.amazon.co.uk/Plush-Yellow-Hornbill-Hansa-26cm/dp/B004SU5SH8. Used under US fair use statute."
+  },
+  "face_powder" : {
+   "display_name"         : "face powder",
+   "subtitle"             : "Maintains that fresh look. Worth its weight in gold.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white"  , "trophy_image_border_color" : "#f1b795",
+   "text_color"           : "#f1b795", "text_outline_color"        : "#ca8c67",
+   "credit"               : "The Body Shop -- http://www.thebodyshop.co.uk/images/product/zoom/9911m_z.jpg. Used under US fair use statute."
+  },
+  "egret-flight" : {
+   "display_name"         : "egret-flight",
+   "subtitle"             : "Fairly aerodynamic.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#21281c", "trophy_image_border_color" : "#526247",
+   "text_color"           : "white"  , "text_outline_color"        : "#3f4938",
+   "credit"               : "Brocken Inaglory -- http://commons.wikimedia.org/wiki/File:Flying_great_egret_1.jpg. Creative Commons Attribution-Share Alike 3.0 Unported."
+  },
+  "stuffed_toy_egret" : {
+   "display_name"         : "stuffed toy egret",
+   "subtitle"             : "I egret this pun already.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#36a6e2", "trophy_image_border_color" : "#87c0e3",
+   "text_color"           : "#36a6e2", "text_outline_color"        : "#006fb3",
+   "credit"               : "Toyhoo.com (made by Douglas Toys) -- http://media2.toyhoo.com/items/www.douglascuddletoy.com/dimg-6335ce4fd84069b241b117d750648803.jpg. Used under US fair use statute."
+  },
+  "nectar" : {
+   "display_name"         : "nectar",
+   "subtitle"             : "It's the drink of the gods.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#df8c09", "trophy_image_border_color" : "#df8c09",
+   "text_color"           : "#fdbe59", "text_outline_color"        : "#df8c09",
+   "credit"               : "Noah -- https://www.flickr.com/photos/noahbulgaria/121343903. Creative Commons Attribution 2.0 Generic."
+  },
+  "sunlight" : {
+   "display_name"         : "sunlight",
+   "subtitle"             : "Let the sunshine in.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#f0ed91", "trophy_image_border_color" : "#f0ed91",
+   "text_color"           : "#faf8c1", "text_outline_color"        : "#c7bc42",
+   "credit"               : "Duane Tate -- https://www.flickr.com/photos/fdtate/9982411. Creative Commons Attribution 2.0 Generic."
+  },
+  "rainbow" : {
+   "display_name"         : "rainbow",
+   "subtitle"             : "The local bank is missing a pot of gold.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#7a9025", "trophy_image_border_color" : "#7a9025",
+   "text_color"           : "#53b3e9", "text_outline_color"        : "#1f8b31",
+   "credit"               : "Kevin M. Klerks -- https://www.flickr.com/photos/ledicarus/9516807061. Creative Commons Attribution 2.0 Generic."
+  },
+  "stuffed_toy_butterfly" : {
+   "display_name"         : "stuffed toy butterfly",
+   "subtitle"             : "All aflutter.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white"  , "trophy_image_border_color" : "#857ebf",
+   "text_color"           : "#9f97d9", "text_outline_color"        : "#68619c",
+   "credit"               : "Ty -- http://www.ty.com/images/products/217_lg.gif. Used under US fair use statute."
+  },
+  "lion_statue" : {
+   "display_name"         : "lion statue",
+   "subtitle"             : "A Trafalgar Square lion.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#f7f7fa", "trophy_image_border_color" : "#808085",
+   "text_color"           : "#d4d4d8", "text_outline_color"        : "#919196",
+   "credit"               : "kjay.rm -- https://www.flickr.com/photos/12533842@N02/1562281292. Creative Commons Attribution 2.0 Generic."
+  },
+  "elephant_statue" : {
+   "display_name"         : "elephant statue",
+   "subtitle"             : "In Italy, elephants support columns.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#9b8458", "trophy_image_border_color" : "#9b8458",
+   "text_color"           : "#dbb368", "text_outline_color"        : "#664a14",
+   "credit"               : "Andrew Fogg -- https://www.flickr.com/photos/69024001@N00/8504200792. Creative Commons Attribution 2.0 Generic."
+  },
+  "giraffe_statue" : {
+   "display_name"         : "giraffe statue",
+   "subtitle"             : "A fairly large giraffe statute.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#2d501b", "trophy_image_border_color" : "#2d501b",
+   "text_color"           : "#69a947", "text_outline_color"        : "#2d501b",
+   "credit"               : "Loozrboy -- https://www.flickr.com/photos/loozrboy/3751534268. Creative Commons Attribution-Share Alike 2.0 Generic."
+  },
+  "hippo_statue" : {
+   "display_name"         : "hippo statue",
+   "subtitle"             : "The king of hippo-hop. (sorry)",
+   "trophy_image_padding" : 0,
+   "background_color"     : "#4f6579", "trophy_image_border_color" : "#",
+   "text_color"           : "#82a9cc", "text_outline_color"        : "#4f6579",
+   "credit"               : "Paul Joseph -- https://www.flickr.com/photos/sashafatcat/75072404. Creative Commons Attribution 2.0 Generic."
+  },
+  "stuffed_toy_ibis" : {
+   "display_name"         : "stuffed toy ibis",
+   "subtitle"             : "Would eat babies if it could.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white"  , "trophy_image_border_color" : "#801912",
+   "text_color"           : "#ebd2d0", "text_outline_color"        : "#801912",
+   "credit"               : "1755pal (made by Tolo Toys) http://www.ebay.co.uk/itm/TOLO-WIGGLY-JIGGLY-PLUSH-IBIS-BIRD-BABY-TOY-/151201154364. Used under US fair use statute."
+  },
+  "stuffed_toy_penguin" : {
+   "display_name"         : "stuffed toy penguin",
+   "subtitle"             : "Still swims better than it flies.",
+   "trophy_image_padding" : 0,
+   "background_color"     : "white", "trophy_image_border_color" : "black",
+   "text_color"           : "black", "text_outline_color"        : "#eddd2c",
+   "credit"               : "penguinstuffedanimals.com (made by Ty) http://www.penguinstuffedanimals.com/wp-content/uploads/2013/03/TY-Beanie-Baby-Waddle-the-Penguin.jpg. Used under US fair use statute."
+  }
+ }
+}
